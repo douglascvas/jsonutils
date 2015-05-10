@@ -12,6 +12,7 @@ function isBuffer(value) {
 /**
  * Sets the value in the JSON object or create the path.
  *
+ * @method setValue
  * @private
  */
 var setValue = function (jsonObject, path, force, value) {
