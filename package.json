@@ -1,5 +1,5 @@
 {
-  "name": "json-path-utils",
+  "name": "jsonutils",
   "version": "0.1.0",
   "description": "Utilities for handling JSON data given a string path.",
   "main": "index.js",
